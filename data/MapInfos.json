@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"expanded":true,"name":"map001","order":1,"parentId":0,"scrollX":959,"scrollY":1826},
+{"id":2,"expanded":true,"name":"MAP002","order":4,"parentId":0,"scrollX":1391,"scrollY":926},
+{"id":3,"expanded":true,"name":"MAP003","order":5,"parentId":2,"scrollX":911,"scrollY":626},
+{"id":4,"expanded":true,"name":"MAP004","order":7,"parentId":5,"scrollX":911,"scrollY":534},
+{"id":5,"expanded":true,"name":"MAP005","order":6,"parentId":3,"scrollX":857,"scrollY":394},
+{"id":6,"expanded":true,"name":"MAP006","order":12,"parentId":3,"scrollX":529,"scrollY":406},
+{"id":7,"expanded":true,"name":"MAP007","order":8,"parentId":5,"scrollX":529,"scrollY":506},
+{"id":8,"expanded":true,"name":"MAP008","order":10,"parentId":5,"scrollX":529,"scrollY":858},
+{"id":9,"expanded":true,"name":"MAP009","order":9,"parentId":5,"scrollX":529,"scrollY":858},
+{"id":10,"expanded":true,"name":"MAP010","order":11,"parentId":5,"scrollX":529,"scrollY":858},
+{"id":11,"expanded":false,"name":"사무실 1층","order":2,"parentId":1,"scrollX":863,"scrollY":1106},
+{"id":12,"expanded":false,"name":"카지노","order":3,"parentId":1,"scrollX":529,"scrollY":806},
+{"id":13,"expanded":false,"name":"마을 민가 1층","order":13,"parentId":0,"scrollX":529,"scrollY":522}
+]
